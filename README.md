@@ -1,9 +1,5 @@
 # Marketing Decision Making: Case Analyses & Marketing Plan
-
-**MBA 645, Quinnipiac University · Prof. Abhik Roy · Fall 2025**
-**Group D:** Blenda Mutuma, Medin Iljazi, Luke Della Pietra, Pedzisai Tapfumaneyi, Esmeralda Sey
-
-Over one semester, our team worked through a series of real business decisions. For each case we defined the core problem, weighed the alternatives with the case data, and committed to a recommendation. The series ended with a full marketing plan for Gatorade.
+ worked in a team through a series of real business decisions. For each case we defined the core problem, weighed the alternatives with the case data, and committed to a recommendation. The series ended with a full marketing plan for Gatorade.
 
 ## Capstone: Gatorade Marketing Plan
 [`capstone/gatorade_marketing_plan.pdf`](capstone/gatorade_marketing_plan.pdf)
